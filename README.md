@@ -17,6 +17,8 @@ Repository showcasing data analytics, data engineering, NLP, and system developm
 
 [Retail Big Data Analytics (PySpark + Power BI)](https://github.com/PyaeSone-Hein/retail-big-data-analytics-pyspark): End-to-end retail analytics pipeline using PySpark for data cleaning, feature engineering, and distributed analytics, with outputs visualized in Power BI dashboards.
 
+[Retail Insights](https://github.com/Kinosaur/retail-insights): Backend analytics and data system project for small retail businesses, focusing on revenue concentration, inventory monitoring, dead-stock detection, stockout-aware reorder signals, and dashboard-ready business insights.
+
 [Thai Food Ingredients Analysis](https://github.com/Kinosaur/thai_food): Collaborative data analysis project exploring ingredient patterns and relationships in Thai cuisine through data cleaning and visualization.
 
 [Dirty Data Cleaning and Analysis](https://github.com/Kinosaur/data-cleaning-eda-portfolio): Project focused on handling unstructured datasets by applying data cleaning techniques and exploratory analysis to extract meaningful insights.
