@@ -4,10 +4,21 @@
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2gzY2FvbzBheHpvejd3Z3IwZXF4bGJpenptM2JlaXo2OWl4bGJlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eKbNyejtm6vCKJyLfR/giphy.gif" 
     width="140"
+    alt="Animated coding gif"
   />
 </p>
 
 Repository showcasing data analytics, data engineering, NLP, and system development projects completed through academic work, self-learning, and practical exploration.
+
+---
+
+## Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pyaesoneaung-Data/pyaesoneaung-Data/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pyaesoneaung-Data/pyaesoneaung-Data/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pyaesoneaung-Data/pyaesoneaung-Data/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -40,13 +51,3 @@ Repository showcasing data analytics, data engineering, NLP, and system developm
 ### Power BI
 
 [Christmas Movie Picker](https://github.com/PyaeSone-Hein/christmas-movie-picker): Interactive dashboard project exploring charts, filters, and reporting features.
-
----
-
-## System Development and Backend Projects
-
-Backend and system-focused projects: Ongoing work involving data pipelines, API services, and real-time processing systems, to be published once stable and complete.
-
----
-
-![snake gif](https://github.com/PyaeSone-Hein/PyaeSone-Hein/blob/output/github-snake-dark.svg)
