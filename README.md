@@ -190,8 +190,7 @@
   <br/>
 
 
-  <img height="170" src="https://streak-stats.demolab.com?user=pyaesoneaung-Data&hide_border=true&background=FAFAFA&stroke=E4E4E7&ring=183A59&fire=C1775B&currStreakLabel=183A59&sideLabels=18181B&dates=71717A&currStreakNum=18181B&sideNums=18181B" alt="streak"/>
-
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=pyaesoneaung-Data&theme=default&hide_border=true" alt="GitHub streak stats"/>
 </div>
 
 <br/>
